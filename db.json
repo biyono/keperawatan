@@ -220,29 +220,6 @@
             "step": "overview",
             "id": "9",
             "kategori":"9"
-        },
-        {
-            "title": "Jan Hirthe",
-            "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
-            "kategori": "Gawat Darurat",
-            "nama": "Iriana Namaga",
-            "umur": 13191,
-            "jenis_kelamin": "Perempuan",
-            "dosen": "Jumadi Yudhistira",
-            "dokter": "Bakda Darojat",
-            "tingkat_kesulitan": "Mudah",
-            "penjelasan":"Dolor cumque et dolore sequi laborum.",
-            "tempat_lahir": "McGlynnside",
-            "tanggal_lahir": "1993-03-03",
-            "pekerjaan": "analyzer",
-            "keluhan_utama": "Neque assumenda atque magnam ut voluptatibus.",
-            "riwayat_penyakit": "Ipsam sunt temporibus consequatur sit commodi aut ea similique.",
-            "rekomendasi": 0,
-            "navigation": "intervensi",
-            "step": "domain",
-            "id": "10",
-            "kategori":"1",
-            "sub_kategori":"1",
         }
      ]
 }
