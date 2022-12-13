@@ -2,6 +2,9 @@
     "module_keperawatan": [
             {
                 "title": "debitis quis qui",
+                "no_rekam_medis":"3528-6720-2822-8836",
+                "no_asuransi":"6759-8563-2847-4894-949",
+                "alamat":"373 Kelton Branch",
                 "image": "https://raw.githubusercontent.com/biyono/keperawatan/main/gambar1.png",
                 "nama": "Pia Yulianti",
                 "umur": 12,
@@ -17,7 +20,7 @@
                 "riwayat_penyakit": "Repellendus quos qui quia nihil quaerat dolores alias.",
                 "rekomendasi": 0,
                 "navigation": "pengkajian",
-                "step": "tanya",
+                "step": "rekam_medis",
                 "id": "0",
                 "kategori":0,
                 "subkategori":0
@@ -25,6 +28,9 @@
             },
             {
                 "title": "voluptatum totam ullam",
+                "no_rekam_medis":"6759-3457-4860-5227-124",
+                "no_asuransi":"6379-3739-8064-8670",
+                "alamat":"864 Lesch Spring",
                 "image": "https://raw.githubusercontent.com/biyono/keperawatan/main/gambar2.png",
                 "nama": "Rahman Sitorus",
                 "umur": 55,
@@ -40,13 +46,16 @@
                 "riwayat_penyakit": "Sit fugiat eveniet hic quas.",
                 "rekomendasi": 0,
                 "navigation": "pengkajian",
-                "step": "cek_pasien",
+                "step": "tanya_pasien",
                 "id": "1",
                 "kategori":1,
                 "subkategori":1
             },
             {
                 "title": "illum ab temporibus",
+                "no_rekam_medis":"3472-954341-79699",
+                "no_asuransi":"3057-355010-3814",
+                "alamat":"98543 Schuppe Rest",
                 "image": "https://raw.githubusercontent.com/biyono/keperawatan/main/gambar3.png",
                 "nama": "Gadis Yuliarti S.I.Kom",
                 "umur": 39,
@@ -62,13 +71,16 @@
                 "riwayat_penyakit": "Qui libero minus voluptates quod.",
                 "rekomendasi": 0,
                 "navigation": "pengkajian",
-                "step": "hasil",
+                "step": "cek_pasien",
                 "id": "2",
                 "kategori":2,
                 "subkategori":2
             },
             {
                 "title": "delectus culpa sit",
+                "no_rekam_medis":"6381-7760-8613-5150",
+                "no_asuransi":"3528-2533-1588-5055",
+                "alamat":"790 Dion Passage",
                 "image": "https://raw.githubusercontent.com/biyono/keperawatan/main/gambar4.png",
                 "nama": "Tina Yolanda M.Pd",
                 "umur": 20,
@@ -91,6 +103,9 @@
             },
             {
                 "title": "sint dolorem vitae",
+                "no_rekam_medis":"5128-3708-8168-9852",
+                "no_asuransi":"6759-0308-2041-3190-87",
+                "alamat":"12906 Christ Trafficway",
                 "image": "https://raw.githubusercontent.com/biyono/keperawatan/main/gambar5.png",
                 "nama": "Wulandari Astuti",
                 "umur": 64,
@@ -113,6 +128,9 @@
             },
             {
                 "title": "expedita ad sint",
+                "no_rekam_medis":"58939988724839459",
+                "no_asuransi":"6398-5334-1912-4164",
+                "alamat":"00383 Maude Roads",
                 "image": "https://raw.githubusercontent.com/biyono/keperawatan/main/gambar6.png",
                 "nama": "Marsito Mansur",
                 "umur": 13,
@@ -135,6 +153,9 @@
             },
             {
                 "title": "et quo reprehenderit",
+                "no_rekam_medis":"4549-3215-4862-3053",
+                "no_asuransi":"6767-5372-8821-7588-18",
+                "alamat":"02520 McGlynn Courts",
                 "image": "https://raw.githubusercontent.com/biyono/keperawatan/main/gambar7.png",
                 "nama": "Gatot Utama",
                 "umur": 73,
@@ -157,6 +178,9 @@
             },
             {
                 "title": "doloremque ea aut",
+                "no_rekam_medis":"6759-7704-4725-1836",
+                "no_asuransi":"6759-9134-3891-5497-43",
+                "alamat":"5411 Spinka Circles",
                 "image": "https://raw.githubusercontent.com/biyono/keperawatan/main/gambar8.png",
                 "nama": "Widya Kusuma",
                 "umur": 6,
